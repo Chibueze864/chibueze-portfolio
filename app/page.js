@@ -43,11 +43,11 @@ export default function Home() {
         <section className="hero container">
           <div className="hero-blue">
             <div>
-              <h1><small>Hi I'm</small>
+              <h1><small>Hi I am</small>
                 Chibueze Onyekpere
               </h1>
               <p>
-                Machine Learning Engineer with a passion for building AI systems with Python and Tensorflow. <span>I am also proficient in a range of web technologies including Node.js, React.js and more, I'm thrilled to connect with fellow innovators. 
+                Machine Learning Engineer with a passion for building AI systems with Python and Tensorflow. <span>I am also proficient in a range of web technologies including Node.js, React.js and more, I am thrilled to connect with fellow innovators. 
                </span>
               </p>
               <div className="call-to-action">
@@ -134,12 +134,12 @@ export default function Home() {
             <div className="right-column">
               <h3>A bit about me</h3>
               <p>
-                Hi I'm Chibueze, a software engineer who builds web apps and machine learning systems. I firmly believe that a strong educational foundation and robust financial systems form the bedrock for sustainable growth and prosperity.
+                Hi I am Chibueze, a software engineer who builds web apps and machine learning systems. I firmly believe that a strong educational foundation and robust financial systems form the bedrock for sustainable growth and prosperity.
               </p>
               <p>
-                I'm currently working on a project called <a href="https://stutorpal.vercel.app/">Stutorpal</a> that connects university students to learn from each other (kind of like upwork for college students).  </p>
+                I am currently working on a project called <a href="https://stutorpal.vercel.app/">Stutorpal</a> that connects university students to learn from each other (kind of like upwork for college students).  </p>
                 <p>
-                I'm actively seeking exciting job opportunities in the dynamic tech space where I can apply my diverse skill set to tackle real-world challenges head-on. 
+                I am actively seeking exciting job opportunities in the dynamic tech space where I can apply my diverse skill set to tackle real-world challenges head-on. 
               </p>
             </div>
           </div>
